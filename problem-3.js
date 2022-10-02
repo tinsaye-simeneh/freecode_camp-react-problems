@@ -1,13 +1,7 @@
 const JSX = (
     <div>
-        {/* This is a challenge 3 from freecodecamp problems */}
-      <h1>Hello JSX!</h1>
-      <p>JSX is a syntax extension to JavaScript.</p>
-      <ul>
-        <li>JSX is a syntax extension to JavaScript.</li>
-        <li>JSX is a syntax extension to JavaScript.</li>
-        <li>JSX is a syntax extension to JavaScript.</li>
-      </ul>
+    {/* change code below this line */}
+      <h1>This is a block of JSX</h1>
+      <p>Here's a subtitle</p>
     </div>
   );
-  
