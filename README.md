@@ -1,2 +1,2 @@
 - react.js questions and problems from freecodecamp.org
-- it contains more than 30 questions and problems
+- it contains more than 45 questions and problems
